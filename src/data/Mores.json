@@ -1,0 +1,58 @@
+[
+    {
+        "id" : 0,
+        "name" : "Order",
+        "icon" : "fas fa-utensils"
+    },
+    {
+        "id" : 1,
+        "name" : "Store",
+        "icon" : "fas fa-home"
+    },
+    {
+        "id" : 2,
+        "name" : "TV Channel/Radio",
+        "icon" : "fas fa-tv"
+    },
+    {
+        "id" : 3,
+        "name" : "Creation",
+        "icon" : "fas fa-pencil-alt"
+    },
+    {
+        "id" : 4,
+        "name" : "Education",
+        "icon" : "fas fa-graduation-cap"
+    },
+    {
+        "id" : 5,
+        "name" : "Politics/Society",
+        "icon" : "fas fa-university"
+    },
+    {
+        "id" : 6,
+        "name" : "Finance",
+        "icon" : "fas fa-won-sign"
+    },
+    {
+        "id" : 7,
+        "name" : "Movies/Music",
+        "icon" : "fas fa-video"
+    }
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+
+
+]
