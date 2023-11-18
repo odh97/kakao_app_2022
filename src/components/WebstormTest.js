@@ -5,6 +5,7 @@ export default function WebstormTest() {
         <div>
             <h1>WebstormTest</h1>
             <div>Branch add</div>
+            <div>Branch add 2</div>
         </div>
     );
 }
