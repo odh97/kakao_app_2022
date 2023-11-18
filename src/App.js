@@ -11,6 +11,7 @@ import ProfileUser from './routes/ProfileUser';
 
 
 function App() {
+  const webstormTest = null;
   return (
     <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
