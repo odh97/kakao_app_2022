@@ -1,3 +1,7 @@
 export default function WebstormTest() {
-    return null;
+    return (
+        <div>
+            <h1>WebstormTest</h1>
+        </div>
+    );
 }
