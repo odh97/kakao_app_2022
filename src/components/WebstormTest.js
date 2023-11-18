@@ -4,9 +4,7 @@ export default function WebstormTest() {
     return (
         <div>
             <h1>WebstormTest</h1>
-            <div>Branch add</div>
-            <div>Branch add 2</div>
-            <div>Branch add 3</div>
+            <div>Branch 분기 별로 관리 연습</div>
         </div>
     );
 }
